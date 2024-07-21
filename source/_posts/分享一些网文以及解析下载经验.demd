@@ -1,0 +1,32 @@
+---
+title: 分享一些网文以及解析下载经验
+date: 2024-07-1508:30:00
+categories: 关于
+---
+
+## 友情提醒:请支持正版小说
+归叶是一个重度小说爱好者,平常就喜欢看些爽文
+比如穿越/系统/末日/文抄公/修仙
+偶尔也会写点小说啥的,最近在给MC服务器写世界观和衍生小说
+
+## 如何操作
+最近归叶在某茄看一本小说,但是阅读功能要看广告补充时长
+而且页面广告还多,所以寻思着能不能找份txt本地听
+但是很不幸,找了半天没有找到资源,只有盗版网站爬取在线阅读
+说到爬取,归叶想起自己在Github有订阅一个项目,正好支持爬取
+项目名字叫[uncle-novel](https://github.com/uncle-novel/uncle-novel)
+找了个有全文的[某盗版网](https://www.ddyueshu.com/),用软件爬了一遍,自动识别正文内容合并成一个txt
+大致看了一遍内容.140多万字,没有错别字啥的,效果还可以
+软件没有付费,而且内置阅读功能
+
+## 小说分享
+归叶推荐的小说,感兴趣的话可以自己去下
+[点我直达](https://github.com/ManakaGekka/Resource_sharing/tree/main/gather/%E7%9C%8B%E8%BF%87%2C%E6%8E%A8%E8%8D%90)
+尤其推荐《超级基因优化液》,归叶的网文启蒙
+
+## 小说合集分享
+[自己收集的](https://github.com/ManakaGekka/Resource_sharing/tree/main/gather)
+[15k小说合集](https://github.com/ManakaGekka/5000_Ebooks_Collecton)
+[4675本科幻小说](https://github.com/ManakaGekka/4675-scifi)
+[乌拉科幻小说网方舟计划存档](https://github.com/ManakaGekka/wula-scifi)
+[《上古卷轴5：天际》内置书籍](https://github.com/ManakaGekka/The-Elder-Scrolls-5-Skyrim-All-books)
